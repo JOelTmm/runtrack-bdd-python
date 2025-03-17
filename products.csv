@@ -1,0 +1,20 @@
+ID,Nom,Prix,Quantité,Catégorie
+1,Smartphone,800,10,Électronique
+2,Ordinateur portable,1200,5,Électronique
+3,Casque Bluetooth,150,20,Électronique
+4,Montre connectée,200,15,Électronique
+5,T-shirt,20,50,Vêtements
+6,Jean,40,30,Vêtements
+8,Chaussures de sport,80,25,Vêtements
+9,Chocolat,3,100,Alimentation
+10,Café,12,50,Alimentation
+11,Pâtes,5,80,Alimentation
+12,Huile d'olive,15,40,Alimentation
+13,Lampe de bureau,30,20,Maison & Déco
+14,Table basse,200,5,Maison & Déco
+15,Vélo de route,1500,2,Sport & Loisirs
+16,Haltères,50,15,Sport & Loisirs
+17,Lego Star Wars,100,10,Jouets
+18,Peluches,25,30,Jouets
+21,Roman de science-fiction,20,50,Livres & Papeterie
+22,Carnet de notes,10,60,Livres & Papeterie
